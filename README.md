@@ -149,6 +149,17 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 
 ---
 
+### Banane
+
+| **Type de transformation**          | **Produit obtenu**                        |
+|-------------------------------------|-------------------------------------------|
+| Aliments minimalement transformés   | Banane fraîche, banane congelée, banane séchée |
+| Ingrédients culinaires transformés  | Purée de banane, farine de banane, jus de banane |
+| Aliments transformés                | Chips de banane, confiture de banane, banane flambée, banane en sirop |
+| Produits ultra-transformés          | Glace à la banane, barres de banane, bonbon à la banane, yaourt à la banane |
+
+---
+
 ### Carambole
 
 | **Type de transformation**          | **Produit obtenu**                        |
