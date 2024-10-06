@@ -11,6 +11,17 @@
 
 ---
 
+### Fruit à pain
+
+| **Type de transformation**          | **Produit obtenu**                        |
+|-------------------------------------|-------------------------------------------|
+| Aliments minimalement transformés   | Fruit à pain frais, fruit à pain cuit, fruit à pain congelé |
+| Ingrédients culinaires transformés  | Purée de fruit à pain, farine de fruit à pain |
+| Aliments transformés                | Chips de fruit à pain, gratin de fruit à pain, conserve de fruit à pain |
+| Produits ultra-transformés          | Glace au fruit à pain, bonbon au fruit à pain, soupe au fruit à pain |
+
+---
+
 ### Igname
 
 | **Type de transformation**          | **Produit obtenu**                        |
