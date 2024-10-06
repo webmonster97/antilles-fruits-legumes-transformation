@@ -59,3 +59,125 @@ Exemples de produits ultra-transformés :
 - Les produits à base de viande reconstituée (nuggets, saucisses).
 
 Ces aliments sont conçus pour être hyper-appétissants, faciles à consommer et largement disponibles. Ils sont souvent emballés de façon attrayante et fortement commercialisés.
+
+## Fruits, plantes, féculents et légumes des Antilles : classification et transformations
+
+### Les plantes
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+
+### Igname
+
+| **Type de transformation**          | **Produit obtenu**                        |
+|-------------------------------------|-------------------------------------------|
+| Aliments minimalement transformés   | Igname fraîche, igname pelée, igname congelée |
+| Ingrédients culinaires transformés  | Farine d'igname, purée d'igname |
+| Aliments transformés                | Chips d'igname, igname bouillie, purée d'igname prête à consommer |
+| Produits ultra-transformés          | Igname déshydratée, snack d'igname |
+
+---
+
+### Manioc
+
+| **Type de transformation**          | **Produit obtenu**                         |
+|-------------------------------------|--------------------------------------------|
+| Aliments minimalement transformés   | Manioc épluché, manioc congelé, manioc râpé |
+| Ingrédients culinaires transformés  | Farine de manioc, amidon de manioc (tapioca)|
+| Aliments transformés                | Galette de manioc, pain de manioc          |
+| Produits ultra-transformés          | Manioc frit (chips), purée déshydratée, lait de manioc, glace au manioc |
+
+---
+
+### Patate douce
+
+| **Type de transformation**          | **Produit obtenu**                        |
+|-------------------------------------|-------------------------------------------|
+| Aliments minimalement transformés   | Patate douce fraîche, patate douce pelée, patate douce congelée |
+| Ingrédients culinaires transformés  | Farine de patate douce, purée de patate douce |
+| Aliments transformés                | Chips de patate douce, frites de patate douce, gâteau de patate douce |
+| Produits ultra-transformés          | Purée déshydratée, snack à base de patate douce |
+
+---
+
+
+### Les plantes
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+
+---
+
+### Les féculents
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+
+---
+
+### Banane plantain
+
+| **Type de transformation**          | **Produit obtenu**                        |
+|-------------------------------------|-------------------------------------------|
+| Aliments minimalement transformés   | Banane plantain épluchée, banane plantain congelée |
+| Ingrédients culinaires transformés  | Farine de banane plantain, purée de banane |
+| Aliments transformés                | Chips de banane plantain, banane plantain bouillie, frites de plantain |
+| Produits ultra-transformés          | Banane plantain déshydratée, purée de banane en conserve |
+
+---
+
+### Les fruits
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+
+### Ananas
+
+| **Type de transformation**          | **Produit obtenu**                        |
+|-------------------------------------|-------------------------------------------|
+| Aliments minimalement transformés   | Ananas frais, ananas coupé, ananas congelé |
+| Ingrédients culinaires transformés  | Jus d'ananas, purée d'ananas |
+| Aliments transformés                | Ananas séché, ananas au sirop, confiture d'ananas |
+| Produits ultra-transformés          | Sirop d'ananas, bonbon à l'ananas, glace à l'ananas |
+
+---
+
+### Carambole
+
+| **Type de transformation**          | **Produit obtenu**                        |
+|-------------------------------------|-------------------------------------------|
+| Aliments minimalement transformés   | Carambole fraîche, carambole coupée, carambole congelée |
+| Ingrédients culinaires transformés  | Jus de carambole, purée de carambole |
+| Aliments transformés                | Confiture de carambole, carambole au sirop, carambole séchée |
+| Produits ultra-transformés          | Sirop de carambole, glace à la carambole |
+
+---
+
+### Citron vert
+
+| **Type de transformation**          | **Produit obtenu**                        |
+|-------------------------------------|-------------------------------------------|
+| Aliments minimalement transformés   | Citron vert frais, citron vert congelé |
+| Ingrédients culinaires transformés  | Jus de citron vert, zeste de citron vert séché, huile essentielle de citron vert |
+| Aliments transformés                | Sirop de citron vert, confiture de citron vert |
+| Produits ultra-transformés          | Bonbon au citron vert, glace au citron vert |
+
+---
+
+### Goyave
+
+| **Type de transformation**          | **Produit obtenu**                        |
+|-------------------------------------|-------------------------------------------|
+| Aliments minimalement transformés   | Goyave fraîche, goyave congelée |
+| Ingrédients culinaires transformés  | Jus de goyave, purée de goyave |
+| Aliments transformés                | Confiture de goyave, goyave en sirop, pâte de goyave |
+| Produits ultra-transformés          | Sirop de goyave, bonbon à la goyave, glace à la goyave |
+
+---
+
+### Mangue
+
+| **Type de transformation**          | **Produit obtenu**                        |
+|-------------------------------------|-------------------------------------------|
+| Aliments minimalement transformés   | Mangue fraîche, mangue congelée, mangue râpée |
+| Ingrédients culinaires transformés  | Jus de mangue, huile de noyau de mangue, purée de mangue |
+| Aliments transformés                | Mangue séchée, confiture de mangue, mangue au sirop, chutney |
+| Produits ultra-transformés          | Sirop de mangue, glace à la mangue, snack à la mangue |
+
+---
