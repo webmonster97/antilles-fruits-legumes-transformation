@@ -2,8 +2,6 @@
 
 ### Les fruits
 
-[Les fruits](docs/fruits.md)
-
 ### Ananas
 
 | **Type de transformation**          | **Produit obtenu**                        |
