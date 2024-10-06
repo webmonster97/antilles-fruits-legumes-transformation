@@ -182,14 +182,26 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 
 ---
 
+### Fruit de la passion (Maracudja)
+
+| **Type de transformation**          | **Produit obtenu**                        |
+|-------------------------------------|-------------------------------------------|
+| Aliments minimalement transformés   | Fruit de la passion frais, fruit de la passion congelé, pulpe de fruit de la passion |
+| Ingrédients culinaires transformés  | Jus de fruit de la passion, purée de fruit de la passion, sirop de fruit de la passion |
+| Aliments transformés                | Confiture de fruit de la passion, fruit de la passion en sirop, gelée de fruit de la passion |
+| Produits ultra-transformés          | Glace au fruit de la passion, bonbon au fruit de la passion, yaourt au fruit de la passion, barres de fruit de la passion |
+
+---
+
 ### Goyave
 
 | **Type de transformation**          | **Produit obtenu**                        |
 |-------------------------------------|-------------------------------------------|
-| Aliments minimalement transformés   | Goyave fraîche, goyave congelée |
-| Ingrédients culinaires transformés  | Jus de goyave, purée de goyave |
-| Aliments transformés                | Confiture de goyave, goyave en sirop, pâte de goyave |
-| Produits ultra-transformés          | Sirop de goyave, bonbon à la goyave, glace à la goyave |
+| Aliments minimalement transformés   | Goyave fraîche, goyave congelée, goyave séchée |
+| Ingrédients culinaires transformés  | Purée de goyave, jus de goyave, sirop de goyave |
+| Aliments transformés                | Confiture de goyave, goyave en sirop, pâte de goyave, nectar de goyave |
+| Produits ultra-transformés          | Glace à la goyave, bonbon à la goyave, snack à la goyave, yaourt à la goyave |
+
 
 ---
 
