@@ -1,6 +1,6 @@
-## Les plantes
+# Les plantes
 
-### Noix de coco
+## Noix de coco
 
 | **Type de transformation**          | **Produit obtenu**                        |
 |-------------------------------------|-------------------------------------------|
