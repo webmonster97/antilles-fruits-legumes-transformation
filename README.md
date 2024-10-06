@@ -2,7 +2,9 @@
 
 La production de fruits et légumes aux Antilles françaises est un pilier de l'économie agricole locale, représentant 35 % de la production nationale de légumes et 20 % de la production nationale de fruits. Toutefois, la transformation de ces produits peut varier considérablement en fonction des procédés utilisés, allant d'aliments non transformés à des produits ultra-transformés. Cette classification repose sur quatre groupes distincts, que nous allons détailler ci-dessous.
 
-## Groupe 1 - Aliments non transformés ou minimalement transformés
+## Préambule - Les groupes de transformation
+
+### Groupe 1 - Aliments non transformés ou minimalement transformés
 
 Les aliments non transformés sont ceux que l'on trouve tels quels dans la nature, comme les fruits et légumes frais, les œufs ou le lait. Dans ce cas, aucune modification n’est apportée, si ce n'est la séparation des parties non comestibles. Quant aux aliments minimalement transformés, ils subissent des procédés simples tels que :
 
@@ -15,7 +17,7 @@ Les aliments non transformés sont ceux que l'on trouve tels quels dans la natur
 
 L'objectif de ces processus est de préserver les qualités nutritionnelles des aliments tout en les rendant plus aptes au stockage et à la consommation. Aux Antilles, les fruits et légumes comme les bananes, les ignames ou les mangues sont souvent préparés de cette manière pour leur consommation locale ou leur exportation.
 
-## Groupe 2 - Ingrédients culinaires transformés
+### Groupe 2 - Ingrédients culinaires transformés
 
 Les ingrédients culinaires transformés sont des substances extraites d'aliments du groupe 1 ou de la nature par des procédés comme le pressage, le raffinage ou le séchage. Parmi les exemples les plus courants, on retrouve :
 
