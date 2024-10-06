@@ -1,6 +1,6 @@
 # Les fruits
 
-### Les fruits
+## Les fruits
 
 ### Ananas
 
@@ -13,7 +13,7 @@
 
 ---
 
-### Avocat
+## Avocat
 
 | **Type de transformation**          | **Produit obtenu**                        |
 |-------------------------------------|-------------------------------------------|
@@ -24,7 +24,7 @@
 
 ---
 
-### Banane
+## Banane
 
 | **Type de transformation**          | **Produit obtenu**                        |
 |-------------------------------------|-------------------------------------------|
@@ -35,7 +35,7 @@
 
 ---
 
-### Carambole
+## Carambole
 
 | **Type de transformation**          | **Produit obtenu**                        |
 |-------------------------------------|-------------------------------------------|
@@ -46,7 +46,7 @@
 
 ---
 
-### Citron vert
+## Citron vert
 
 | **Type de transformation**          | **Produit obtenu**                        |
 |-------------------------------------|-------------------------------------------|
@@ -57,7 +57,7 @@
 
 ---
 
-### Corossol
+## Corossol
 
 | **Type de transformation**          | **Produit obtenu**                        |
 |-------------------------------------|-------------------------------------------|
@@ -68,7 +68,7 @@
 
 ---
 
-### Cythère
+## Cythère
 
 | **Type de transformation**          | **Produit obtenu**                        |
 |-------------------------------------|-------------------------------------------|
@@ -79,7 +79,7 @@
 
 ---
 
-### Fruit de la passion (Maracudja)
+## Fruit de la passion (Maracudja)
 
 | **Type de transformation**          | **Produit obtenu**                        |
 |-------------------------------------|-------------------------------------------|
@@ -90,7 +90,7 @@
 
 ---
 
-### Fruit du dragon
+## Fruit du dragon
 
 | **Type de transformation**          | **Produit obtenu**                        |
 |-------------------------------------|-------------------------------------------|
@@ -101,7 +101,7 @@
 
 ---
 
-### Goyave
+## Goyave
 
 | **Type de transformation**          | **Produit obtenu**                        |
 |-------------------------------------|-------------------------------------------|
@@ -112,7 +112,7 @@
 
 ---
 
-### Mangue
+## Mangue
 
 | **Type de transformation**          | **Produit obtenu**                        |
 |-------------------------------------|-------------------------------------------|
@@ -123,7 +123,7 @@
 
 ---
 
-### Papaye
+## Papaye
 
 | **Type de transformation**          | **Produit obtenu**                        |
 |-------------------------------------|-------------------------------------------|
@@ -134,7 +134,7 @@
 
 ---
 
-### Pastèque
+## Pastèque
 
 | **Type de transformation**          | **Produit obtenu**                        |
 |-------------------------------------|-------------------------------------------|
@@ -145,7 +145,7 @@
 
 ---
 
-### Pomme cannelle
+## Pomme cannelle
 
 | **Type de transformation**          | **Produit obtenu**                        |
 |-------------------------------------|-------------------------------------------|
@@ -156,7 +156,7 @@
 
 ---
 
-### Pomme surette
+## Pomme surette
 
 | **Type de transformation**          | **Produit obtenu**                        |
 |-------------------------------------|-------------------------------------------|
@@ -167,7 +167,7 @@
 
 ---
 
-### Quenette
+## Quenette
 
 | **Type de transformation**          | **Produit obtenu**                        |
 |-------------------------------------|-------------------------------------------|
@@ -178,7 +178,7 @@
 
 ---
 
-### Sapotille
+## Sapotille
 
 | **Type de transformation**          | **Produit obtenu**                        |
 |-------------------------------------|-------------------------------------------|
