@@ -55,7 +55,7 @@
 
 ---
 
-### Cerise péyi
+## Cerise péyi
 
 | **Type de transformation**          | **Produit obtenu**                        |
 |-------------------------------------|-------------------------------------------|
@@ -121,7 +121,7 @@
 
 ---
 
-### Mandarine
+## Mandarine
 
 | **Type de transformation**          | **Produit obtenu**                        |
 |-------------------------------------|-------------------------------------------|
@@ -152,7 +152,7 @@
 | Aliments transformés                | Confiture d'orange, marmelade d'orange   |
 | Produits ultra-transformés          | Bonbons à l'orange, gelée d'orange       |
 
-### Orange amère
+## Orange amère
 
 | **Type de transformation**          | **Produit obtenu**                        |
 |-------------------------------------|-------------------------------------------|
