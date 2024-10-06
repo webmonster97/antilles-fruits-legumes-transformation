@@ -17,6 +17,8 @@ Les aliments non transformés sont ceux que l'on trouve tels quels dans la natur
 
 L'objectif de ces processus est de préserver les qualités nutritionnelles des aliments tout en les rendant plus aptes au stockage et à la consommation. Aux Antilles, les fruits et légumes comme les bananes, les ignames ou les mangues sont souvent préparés de cette manière pour leur consommation locale ou leur exportation.
 
+---
+
 ### Groupe 2 - Ingrédients culinaires transformés
 
 Les ingrédients culinaires transformés sont des substances extraites d'aliments du groupe 1 ou de la nature par des procédés comme le pressage, le raffinage ou le séchage. Parmi les exemples les plus courants, on retrouve :
@@ -27,6 +29,8 @@ Les ingrédients culinaires transformés sont des substances extraites d'aliment
 - Le sel.
 
 Ces ingrédients ne sont généralement pas consommés seuls, mais servent plutôt à la préparation des plats. Aux Antilles, l'huile de coco, le sucre de canne ou encore le sel sont fréquemment utilisés dans la préparation de recettes traditionnelles, comme les ragoûts, les accras ou les gratins de légumes.
+
+---
 
 ### Groupe 3 - Aliments transformés
 
@@ -40,6 +44,8 @@ Exemples d'aliments transformés aux Antilles :
 - Les confitures artisanales (banane, goyave, maracuja).
 
 Ces aliments restent relativement proches de leur forme naturelle et peuvent être consommés tels quels ou en combinaison avec d'autres ingrédients pour préparer des plats.
+
+---
 
 ### Groupe 4 - Produits alimentaires et boissons ultra-transformés
 
