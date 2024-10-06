@@ -112,6 +112,17 @@
 
 ---
 
+### Papaye
+
+| **Type de transformation**          | **Produit obtenu**                        |
+|-------------------------------------|-------------------------------------------|
+| Aliments minimalement transformés   | Papaye fraîche, papaye coupée, papaye congelée |
+| Ingrédients culinaires transformés  | Purée de papaye, jus de papaye, sauce à la papaye |
+| Aliments transformés                | Confiture de papaye, papaye en sirop, compote de papaye |
+| Produits ultra-transformés          | Glace à la papaye, bonbon à la papaye, yaourt à la papaye, smoothie à la papaye |
+
+---
+
 ### Pastèque
 
 | **Type de transformation**          | **Produit obtenu**                        |
@@ -142,6 +153,17 @@
 | Ingrédients culinaires transformés  | Purée de pomme surette, jus de pomme surette |
 | Aliments transformés                | Confiture de pomme surette, pomme surette au sirop, compote de pomme surette |
 | Produits ultra-transformés          | Glace à la pomme surette, bonbon à la pomme surette, yaourt à la pomme surette |
+
+---
+
+### Quenette
+
+| **Type de transformation**          | **Produit obtenu**                        |
+|-------------------------------------|-------------------------------------------|
+| Aliments minimalement transformés   | Quenette fraîche, quenette congelée      |
+| Ingrédients culinaires transformés  | Purée de quenette, jus de quenette       |
+| Aliments transformés                | Confiture de quenette, quenette en sirop |
+| Produits ultra-transformés          | Glace à la quenette, bonbon à la quenette, nectar de quenette |
 
 ---
 
