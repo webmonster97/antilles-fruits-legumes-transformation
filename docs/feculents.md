@@ -1,6 +1,6 @@
-## Les féculents
+# Les féculents
 
-### Banane plantain
+## Banane plantain
 
 | **Type de transformation**          | **Produit obtenu**                        |
 |-------------------------------------|-------------------------------------------|
