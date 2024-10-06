@@ -2,23 +2,7 @@
 
 ## Agrumes
 
-### Orange
-
----
-
-### Citron
-
----
-
-### Pamplemousse
-
----
-
-### Mandarine
-
----
-
-## Citron vert
+### Citron vert
 
 | **Type de transformation**          | **Produit obtenu**                        |
 |-------------------------------------|-------------------------------------------|
@@ -28,6 +12,52 @@
 | Produits ultra-transformés          | Bonbon au citron vert, glace au citron vert |
 
 ---
+
+### Orange
+
+### Oranges
+
+| **Type de transformation**          | **Produit obtenu**                        |
+|-------------------------------------|-------------------------------------------|
+| Aliments minimalement transformés   | Orange fraîche, orange pelée, orange congelée |
+| Ingrédients culinaires transformés  | Jus d'orange, zestes d'orange             |
+| Aliments transformés                | Confiture d'orange, marmelade d'orange   |
+| Produits ultra-transformés          | Bonbons à l'orange, gelée d'orange       |
+
+### Oranges amères
+
+| **Type de transformation**          | **Produit obtenu**                        |
+|-------------------------------------|-------------------------------------------|
+| Aliments minimalement transformés   | Orange amère fraîche, orange amère pelée  |
+| Ingrédients culinaires transformés  | Zestes d'orange amère, confiture d'orange amère |
+| Aliments transformés                | Liqueur à base d'orange amère, sauce à l'orange amère |
+| Produits ultra-transformés          | Bonbons à l'orange amère, gelée d'oran
+
+---
+
+### Pamplemousse
+
+| **Type de transformation**          | **Produit obtenu**                        |
+|-------------------------------------|-------------------------------------------|
+| Aliments minimalement transformés   | Pamplemousse frais, pamplemousse pelé, pamplemousse congelé |
+| Ingrédients culinaires transformés  | Jus de pamplemousse, zestes de pamplemousse |
+| Aliments transformés                | Confiture de pamplemousse, marmelade de pamplemousse |
+| Produits ultra-transformés          | Bonbons au pamplemousse, gelée de pamplemousse, sirop de pamplemousse |
+
+---
+
+### Mandarine
+
+| **Type de transformation**          | **Produit obtenu**                        |
+|-------------------------------------|-------------------------------------------|
+| Aliments minimalement transformés   | Mandarine fraîche, mandarine pelée, mandarine congelée |
+| Ingrédients culinaires transformés  | Jus de mandarine, zestes de mandarine    |
+| Aliments transformés                | Confiture de mandarine, marmelade de mandarine |
+| Produits ultra-transformés          | Bonbons à la mandarine, gelée de mandarine, sirop de mandarine |
+
+---
+
+## Fruits tropicaux
 
 ### Ananas
 
