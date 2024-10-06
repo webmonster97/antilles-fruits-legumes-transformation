@@ -62,7 +62,7 @@ Ces aliments sont conçus pour être hyper-appétissants, faciles à consommer e
 
 ## Fruits, plantes, féculents et légumes des Antilles : classification et transformations
 
-### Les plantes
+### Les légumes
 
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 
