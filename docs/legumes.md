@@ -1,6 +1,6 @@
-## Les légumes
+# Les légumes
 
-### Christophine
+## Christophine
 
 | **Type de transformation**          | **Produit obtenu**                        |
 |-------------------------------------|-------------------------------------------|
@@ -11,7 +11,7 @@
 
 ---
 
-### Fruit à pain
+## Fruit à pain
 
 | **Type de transformation**          | **Produit obtenu**                        |
 |-------------------------------------|-------------------------------------------|
@@ -22,7 +22,18 @@
 
 ---
 
-### Igname
+### Giraumon
+
+| **Type de transformation**          | **Produit obtenu**                        |
+|-------------------------------------|-------------------------------------------|
+| Aliments minimalement transformés   | Giraumon frais, giraumon cuit, giraumon congelé |
+| Ingrédients culinaires transformés  | Purée de giraumon, soupe de giraumon     |
+| Aliments transformés                | Gâteau de giraumon, gratin de giraumon, confiture de giraumon |
+| Produits ultra-transformés          | Glace au giraumon, bonbon au giraumon, chips de giraumon |
+
+---
+
+## Igname
 
 | **Type de transformation**          | **Produit obtenu**                        |
 |-------------------------------------|-------------------------------------------|
@@ -33,7 +44,7 @@
 
 ---
 
-### Manioc
+## Manioc
 
 | **Type de transformation**          | **Produit obtenu**                         |
 |-------------------------------------|--------------------------------------------|
@@ -44,7 +55,7 @@
 
 ---
 
-### Patate douce
+## Patate douce
 
 | **Type de transformation**          | **Produit obtenu**                        |
 |-------------------------------------|-------------------------------------------|
@@ -52,5 +63,16 @@
 | Ingrédients culinaires transformés  | Farine de patate douce, purée de patate douce |
 | Aliments transformés                | Chips de patate douce, frites de patate douce, gâteau de patate douce |
 | Produits ultra-transformés          | Purée déshydratée, snack à base de patate douce |
+
+---
+
+### Pois d'Angole
+
+| **Type de transformation**          | **Produit obtenu**                        |
+|-------------------------------------|-------------------------------------------|
+| Aliments minimalement transformés   | Pois d'Angole frais, pois d'Angole secs  |
+| Ingrédients culinaires transformés  | Purée de pois d'Angole, sauce de pois d'Angole |
+| Aliments transformés                | Soupe de pois d'Angole, ragoût de pois d'Angole |
+| Produits ultra-transformés          | Pâtés aux pois d'Angole, snacks à base de pois d'Angole |
 
 ---
