@@ -43,7 +43,7 @@
 
 ---
 
-### Bois d'inde (Pimenta racemosa)
+## Bois d'inde (Pimenta racemosa)
 
 | **Type de transformation**          | **Produit obtenu**                          |
 |-------------------------------------|---------------------------------------------|
@@ -54,7 +54,7 @@
 
 ---
 
-### Brisée (Desmodium)
+## Brisée (Desmodium)
 
 | **Type de transformation**          | **Produit obtenu**                          |
 |-------------------------------------|---------------------------------------------|
@@ -65,7 +65,7 @@
 
 ---
 
-### Cerfeuil (Anthriscus cerefolium)
+## Cerfeuil (Anthriscus cerefolium)
 
 | **Type de transformation**          | **Produit obtenu**                          |
 |-------------------------------------|---------------------------------------------|
