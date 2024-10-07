@@ -44,7 +44,7 @@
 
 ---
 
-### Banane Makandja
+### Banane makandja
 
 | **Type de transformation**          | **Produit obtenu**                          |
 |-------------------------------------|---------------------------------------------|
