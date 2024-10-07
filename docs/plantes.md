@@ -22,7 +22,7 @@
 
 ---
 
-### Basilic commun (Ocimum basilicum)
+## Basilic commun (Ocimum basilicum)
 
 | **Type de transformation**          | **Produit obtenu**                          |
 |-------------------------------------|---------------------------------------------|
@@ -33,7 +33,7 @@
 
 ---
 
-### Basilic citronné (Ocimum citriodorum)
+## Basilic citronné (Ocimum citriodorum)
 
 | **Type de transformation**          | **Produit obtenu**                          |
 |-------------------------------------|---------------------------------------------|
