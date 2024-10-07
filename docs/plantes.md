@@ -76,7 +76,7 @@
 
 ---
 
-### Citron caviar (Microcitrus australasica)
+## Citron caviar (Microcitrus australasica)
 
 | **Type de transformation**          | **Produit obtenu**                          |
 |-------------------------------------|---------------------------------------------|
@@ -87,7 +87,7 @@
 
 ---
 
-### Citronnelle (Cymbopogon citratus)
+## Citronnelle (Cymbopogon citratus)
 
 | **Type de transformation**          | **Produit obtenu**                          |
 |-------------------------------------|---------------------------------------------|
@@ -109,7 +109,7 @@
 
 ---
 
-### Concombre (Cucumis sativus)
+## Concombre (Cucumis sativus)
 
 | **Type de transformation**          | **Produit obtenu**                          |
 |-------------------------------------|---------------------------------------------|
