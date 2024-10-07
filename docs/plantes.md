@@ -76,7 +76,7 @@
 
 ---
 
-### Chou kale (Brassica oleracea var. sabellica)
+## Chou kale (Brassica oleracea var. sabellica)
 
 | **Type de transformation**          | **Produit obtenu**                          |
 |-------------------------------------|---------------------------------------------|
