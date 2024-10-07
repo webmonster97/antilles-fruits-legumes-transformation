@@ -294,3 +294,25 @@
 | Produits ultra-transformés         | Glace au Letchi, Sirop de Letchi, Jus de Letchi, Crème de Letchi, Smoothie de Letchi |
 
 ---
+
+## Canne à sucre
+
+| **Type de transformation**         | **Produit obtenu**                                   |
+| ---------------------------------- | ---------------------------------------------------- |
+| Aliments minimalement transformés  | Canne à sucre fraiche                                |
+| Ingrédients culinaires transformés | Sucre brut, Sucre raffiné, vinaigre de canne à sucre |
+| Aliments transformés               | Confiture de canne à sucre, gelée de canne à sucre   |
+| Produits ultra-transformés         | Sirop de canne à sucre, Jus de canne à sucre, Rhum   |
+
+---
+
+## kumquat
+
+| **Type de transformation**         | **Produit obtenu**                                 |
+| ---------------------------------- | -------------------------------------------------- |
+| Aliments minimalement transformés  | kumquat fraiche, kumquat congelé                   |
+| Ingrédients culinaires transformés | Zest de kumquat                                    |
+| Aliments transformés               | Confiture de kumquat, gelée de kumquat             |
+| Produits ultra-transformés         | Sirop de kumquat, Jus de kumquat, Glace au kumquat |
+
+---
