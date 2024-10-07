@@ -18,7 +18,7 @@
 
 ---
 
-# Goyave-fraise (Psidium cattleianum Sabine 
+# Goyave-fraise (Psidium cattleianum Sabine)
 
 ---
 
