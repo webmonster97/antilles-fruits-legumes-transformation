@@ -1,5 +1,16 @@
 # Les fruits
 
+## Abricot péyi
+
+| **Type de transformation**          | **Produit obtenu**                          |
+|-------------------------------------|---------------------------------------------|
+| Aliments minimalement transformés   | Abricots péyi frais                         |
+| Ingrédients culinaires transformés  | Purée d'abricot péyi, jus d'abricot péyi  |
+| Aliments transformés                | Confiture d'abricot péyi, compote d'abricot péyi |
+| Produits ultra-transformés          | Bonbons à l'abricot péyi, boissons sucrées à base d'abricot péyi |
+
+---
+
 ## Ananas
 
 | **Type de transformation**         | **Produit obtenu**                                                       |
@@ -33,7 +44,7 @@
 
 ---
 
-### Bananes figue
+## Bananes figue
 
 | **Type de transformation**         | **Produit obtenu**                                                                      |
 | ---------------------------------- | --------------------------------------------------------------------------------------- |
@@ -44,7 +55,7 @@
 
 ---
 
-### Banane makandja
+## Banane makandja
 
 | **Type de transformation**         | **Produit obtenu**                                                                          |
 | ---------------------------------- | ------------------------------------------------------------------------------------------- |
@@ -63,6 +74,17 @@
 | Ingrédients culinaires transformés | Jus de carambole, purée de carambole                         |
 | Aliments transformés               | Confiture de carambole, carambole au sirop, carambole séchée |
 | Produits ultra-transformés         | Sirop de carambole, glace à la carambole                     |
+
+---
+
+## Cerise pays
+
+| **Type de transformation**         | **Produit obtenu**                                                                                           |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Aliments minimalement transformés  | cerise pays frais, cerise pays congelé, cerise pays séché                                                    |
+| Ingrédients culinaires transformés | Pourdre de cerise pays, Extrait de cerise pays                                                               |
+| Aliments transformés               | Confiture de cerise pays , gelée de cerise pays, Compote de cerise pays, Pâte de fruits à la cerise pays     |
+| Produits ultra-transformés         | Glace cerise pays, Sirop de cerise pays, Liqueur de cerise pays, Vin de cerise pays, Smoothie de cerise pays |
 
 ---
 
@@ -140,6 +162,17 @@
 | Ingrédients culinaires transformés | Purée de goyave, jus de goyave, sirop de goyave                              |
 | Aliments transformés               | Confiture de goyave, goyave en sirop, pâte de goyave, nectar de goyave       |
 | Produits ultra-transformés         | Glace à la goyave, bonbon à la goyave, snack à la goyave, yaourt à la goyave |
+
+---
+
+## Groseille péyi
+
+| **Type de transformation**          | **Produit obtenu**                          |
+|-------------------------------------|---------------------------------------------|
+| Aliments minimalement transformés   | Groseilles péyi fraîches                    |
+| Ingrédients culinaires transformés  | Purée de groseilles péyi, jus de groseille péyi |
+| Aliments transformés                | Confiture de groseilles péyi, gelée de groseille péyi |
+| Produits ultra-transformés          | Boissons sucrées à base de groseille péyi, bonbons à la groseille péyi |
 
 ---
 
@@ -270,17 +303,6 @@
 | Ingrédients culinaires transformés | Purée de sapotille, jus de sapotille                              |
 | Aliments transformés               | Confiture de sapotille, sapotille en sirop, nectar de sapotille   |
 | Produits ultra-transformés         | Glace à la sapotille, bonbon à la sapotille, snack à la sapotille |
-
----
-
-## Cerise pays
-
-| **Type de transformation**         | **Produit obtenu**                                                                                           |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Aliments minimalement transformés  | cerise pays frais, cerise pays congelé, cerise pays séché                                                    |
-| Ingrédients culinaires transformés | Pourdre de cerise pays, Extrait de cerise pays                                                               |
-| Aliments transformés               | Confiture de cerise pays , gelée de cerise pays, Compote de cerise pays, Pâte de fruits à la cerise pays     |
-| Produits ultra-transformés         | Glace cerise pays, Sirop de cerise pays, Liqueur de cerise pays, Vin de cerise pays, Smoothie de cerise pays |
 
 ---
 
