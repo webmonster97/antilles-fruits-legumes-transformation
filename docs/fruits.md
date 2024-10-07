@@ -2,12 +2,12 @@
 
 ## Ananas
 
-| **Type de transformation**         | **Produit obtenu**                                  |
-| ---------------------------------- | --------------------------------------------------- |
-| Aliments minimalement transformés  | Ananas frais, ananas coupé, ananas congelé          |
-| Ingrédients culinaires transformés | Jus d'ananas, purée d'ananas                        |
-| Aliments transformés               | Ananas séché, ananas au sirop, confiture d'ananas   |
-| Produits ultra-transformés         | Sirop d'ananas, bonbon à l'ananas, glace à l'ananas |
+| **Type de transformation**         | **Produit obtenu**                                                       |
+| ---------------------------------- | ------------------------------------------------------------------------ |
+| Aliments minimalement transformés  | Ananas frais, ananas coupé, ananas congelé                               |
+| Ingrédients culinaires transformés | Jus d'ananas, purée d'ananas                                             |
+| Aliments transformés               | Ananas séché, ananas au sirop, confiture d'ananas                        |
+| Produits ultra-transformés         | Sirop d'ananas, bonbon à l'ananas, glace à l'ananas, smoothie à l'ananas |
 
 ---
 
@@ -33,6 +33,28 @@
 
 ---
 
+### Bananes figue
+
+| **Type de transformation**         | **Produit obtenu**                                                                      |
+| ---------------------------------- | --------------------------------------------------------------------------------------- |
+| Aliments minimalement transformés  | Bananes figue fraîches, bananes figue séchées, bananes figue congelées                  |
+| Ingrédients culinaires transformés | Purée de bananes figue, chips de bananes figue                                          |
+| Aliments transformés               | Confiture de bananes figue, bananes figue frites, gâteaux ou beignets à la banane figue |
+| Produits ultra-transformés         | Bonbons à la banane figue, farine de banane figue, sirop de banane figue                |
+
+---
+
+### Banane makandja
+
+| **Type de transformation**         | **Produit obtenu**                                                                          |
+| ---------------------------------- | ------------------------------------------------------------------------------------------- |
+| Aliments minimalement transformés  | Banane Makandja fraîche, banane Makandja séchée, banane Makandja congelée                   |
+| Ingrédients culinaires transformés | Purée de banane Makandja, chips de banane Makandja                                          |
+| Aliments transformés               | Confiture de banane Makandja, banane Makandja frite, gâteau ou beignet à la banane Makandja |
+| Produits ultra-transformés         | Farine de banane Makandja, bonbons à la banane Makandja, sirop de banane Makandja           |
+
+---
+
 ## Carambole
 
 | **Type de transformation**         | **Produit obtenu**                                           |
@@ -52,6 +74,17 @@
 | Ingrédients culinaires transformés | Jus de citron vert, zeste de citron vert séché, huile essentielle de citron vert |
 | Aliments transformés               | Sirop de citron vert, confiture de citron vert                                   |
 | Produits ultra-transformés         | Bonbon au citron vert, glace au citron vert                                      |
+
+---
+
+## Cerise péyi
+
+| **Type de transformation**         | **Produit obtenu**                                                   |
+| ---------------------------------- | -------------------------------------------------------------------- |
+| Aliments minimalement transformés  | Cerise péyi fraîche, cerise péyi séchée                              |
+| Ingrédients culinaires transformés | Jus de cerise péyi, purée de cerise péyi                             |
+| Aliments transformés               | Confiture de cerise péyi, compote de cerise péyi                     |
+| Produits ultra-transformés         | Bonbons à la cerise péyi, gelée de cerise péyi, sirop de cerise péyi |
 
 ---
 
@@ -110,7 +143,7 @@
 
 ---
 
-### Mandarine
+## Mandarine
 
 | **Type de transformation**         | **Produit obtenu**                                             |
 | ---------------------------------- | -------------------------------------------------------------- |
@@ -141,7 +174,7 @@
 | Aliments transformés               | Confiture d'orange, marmelade d'orange        |
 | Produits ultra-transformés         | Bonbons à l'orange, gelée d'orange            |
 
-### Orange amère
+## Orange amère
 
 | **Type de transformation**         | **Produit obtenu**                                    |
 | ---------------------------------- | ----------------------------------------------------- |

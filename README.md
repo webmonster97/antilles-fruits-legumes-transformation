@@ -4,31 +4,31 @@ La production de fruits et légumes aux Antilles françaises est un pilier de l'
 
 ## Préambule - Les groupes de transformation
 
-[Voir la classification](docs/GROUPE-TRANSFORMATION.md)
+- [Voir la classification](docs/GROUPE-TRANSFORMATION.md)
 
 ## Fruits, plantes, féculents et légumes des Antilles : classification et transformations
 
 ### Les légumes
 
-[Les légumes](docs/legumes.md)
+- [Les légumes](docs/legumes.md)
 
 ---
 
 ### Les plantes
 
-[Les plantes](docs/plantes.md)
+- [Les plantes](docs/plantes.md)
 
 ---
 
 ### Les féculents
 
-[Les féculents](docs/feculents.md)
+- [Les féculents](docs/feculents.md)
 
 ---
 
 ### Les fruits
 
-[Les fruits](docs/fruits.md)
+- [Les fruits](docs/fruits.md)
 
 ---
 
