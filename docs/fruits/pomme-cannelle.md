@@ -8,3 +8,12 @@
 | Produits ultra-transformés         | Glace à la pomme cannelle, bonbon à la pomme cannelle, yaourt à la pomme cannelle |
 
 ---
+
+- Famille : Annonacées
+- Nom de l'arbre : Attier
+- Floraison : D'avril à juillet
+- Fructification : De septembre à février
+- Dimension du fruit : Diamètre de 5 à 10 cm
+- Autres noms : Sugar apple (anglais); Anòn (espagnol)
+
+---
