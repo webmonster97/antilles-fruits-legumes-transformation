@@ -44,14 +44,14 @@
 
 ---
 
-## Giraumon
+### Giraumon (Cucurbita moschata)
 
-| **Type de transformation**          | **Produit obtenu**                        |
-|-------------------------------------|-------------------------------------------|
-| Aliments minimalement transformés   | Giraumon frais, giraumon cuit, giraumon congelé |
-| Ingrédients culinaires transformés  | Purée de giraumon, soupe de giraumon     |
-| Aliments transformés                | Gâteau de giraumon, gratin de giraumon, confiture de giraumon |
-| Produits ultra-transformés          | Glace au giraumon, bonbon au giraumon, chips de giraumon |
+| **Type de transformation**          | **Produit obtenu**                          |
+|-------------------------------------|---------------------------------------------|
+| Aliments minimalement transformés   | Giraumon frais, giraumon cuit              |
+| Ingrédients culinaires transformés  | Purée de giraumon, huile de giraumon       |
+| Aliments transformés                | Soupe de giraumon, gratin de giraumon, ragoût de giraumon |
+| Produits ultra-transformés          | Farine de giraumon, flocons de giraumon, produits de boulangerie à base de giraumon |
 
 ---
 
