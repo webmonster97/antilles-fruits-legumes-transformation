@@ -44,6 +44,17 @@
 
 ---
 
+### Banane Makandja
+
+| **Type de transformation**          | **Produit obtenu**                          |
+|-------------------------------------|---------------------------------------------|
+| Aliments minimalement transformés   | Banane Makandja fraîche, banane Makandja séchée, banane Makandja congelée |
+| Ingrédients culinaires transformés  | Purée de banane Makandja, chips de banane Makandja |
+| Aliments transformés                | Confiture de banane Makandja, banane Makandja frite, gâteau ou beignet à la banane Makandja |
+| Produits ultra-transformés          | Farine de banane Makandja, bonbons à la banane Makandja, sirop de banane Makandja |
+
+---
+
 ## Carambole
 
 | **Type de transformation**          | **Produit obtenu**                        |
