@@ -131,7 +131,7 @@
 
 ---
 
-## Huile de roucou (Bixa orellana)
+## Roucou (Bixa orellana)
 
 | **Type de transformation**          | **Produit obtenu**                          |
 |-------------------------------------|---------------------------------------------|
