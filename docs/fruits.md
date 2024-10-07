@@ -239,3 +239,58 @@
 | Produits ultra-transformés         | Glace à la sapotille, bonbon à la sapotille, snack à la sapotille |
 
 ---
+
+## Cerise pays
+
+| **Type de transformation**         | **Produit obtenu**                                                                                           |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Aliments minimalement transformés  | cerise pays frais, cerise pays congelé, cerise pays séché                                                    |
+| Ingrédients culinaires transformés | Pourdre de cerise pays, Extrait de cerise pays                                                               |
+| Aliments transformés               | Confiture de cerise pays , gelée de cerise pays, Compote de cerise pays, Pâte de fruits à la cerise pays     |
+| Produits ultra-transformés         | Glace cerise pays, Sirop de cerise pays, Liqueur de cerise pays, Vin de cerise pays, Smoothie de cerise pays |
+
+---
+
+## Tamarin
+
+| **Type de transformation**         | **Produit obtenu**                                                     |
+| ---------------------------------- | ---------------------------------------------------------------------- |
+| Aliments minimalement transformés  | Tamarin frais, Tamarin congelé                                         |
+| Ingrédients culinaires transformés | Pourdre de tamarin, Extrait de tamarin                                 |
+| Aliments transformés               | Confiture de tamarin , gelée de tamarin, Pâte de tamarin               |
+| Produits ultra-transformés         | Glace au tamarin, Sirop de tamarin, Jus de tamarin, Bonbons au tamarin |
+
+---
+
+## Grenade
+
+| **Type de transformation**         | **Produit obtenu**                                        |
+| ---------------------------------- | --------------------------------------------------------- |
+| Aliments minimalement transformés  | Grenade fraiche, Grenade congelé                          |
+| Ingrédients culinaires transformés | Extrait de grenade                                        |
+| Aliments transformés               | Confiture de grenade, gelée de grenade, Mousse de grenade |
+| Produits ultra-transformés         | Glace à la grenade, Sirop de grenade, Jus de grenade      |
+
+---
+
+## Abricot pays
+
+| **Type de transformation**         | **Produit obtenu**                                                                                                        |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Aliments minimalement transformés  | Abricot pays fraiche, Abricot pays congelé, Abricot pays séché                                                            |
+| Ingrédients culinaires transformés | Extrait d'abricot pays                                                                                                    |
+| Aliments transformés               | Confiture d'Abricot pays, gelée d'abricot pays                                                                            |
+| Produits ultra-transformés         | Glace à l'abricot pays, Sirop d'abricot pays, Jus Abricot pays, Crème dessert à l'abricot pays, Smoothie à l'abricot pays |
+
+---
+
+## Letchi
+
+| **Type de transformation**         | **Produit obtenu**                                                                   |
+| ---------------------------------- | ------------------------------------------------------------------------------------ |
+| Aliments minimalement transformés  | Letchi fraiche, Letchi congelé, Letchi séché                                         |
+| Ingrédients culinaires transformés | Extrait de Letchi                                                                    |
+| Aliments transformés               | Confiture de Letchi, gelée de Letchi, compote de Letchi                              |
+| Produits ultra-transformés         | Glace au Letchi, Sirop de Letchi, Jus de Letchi, Crème de Letchi, Smoothie de Letchi |
+
+---
