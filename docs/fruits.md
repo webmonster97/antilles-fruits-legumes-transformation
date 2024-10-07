@@ -77,17 +77,6 @@
 
 ---
 
-## Cerise pays
-
-| **Type de transformation**         | **Produit obtenu**                                                                                           |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Aliments minimalement transformés  | cerise pays frais, cerise pays congelé, cerise pays séché                                                    |
-| Ingrédients culinaires transformés | Pourdre de cerise pays, Extrait de cerise pays                                                               |
-| Aliments transformés               | Confiture de cerise pays , gelée de cerise pays, Compote de cerise pays, Pâte de fruits à la cerise pays     |
-| Produits ultra-transformés         | Glace cerise pays, Sirop de cerise pays, Liqueur de cerise pays, Vin de cerise pays, Smoothie de cerise pays |
-
----
-
 ## Citron vert
 
 | **Type de transformation**         | **Produit obtenu**                                                               |
@@ -108,6 +97,14 @@
 | Aliments transformés               | Confiture de cerise péyi, compote de cerise péyi                     |
 | Produits ultra-transformés         | Bonbons à la cerise péyi, gelée de cerise péyi, sirop de cerise péyi |
 
+
+## Cerise pays
+
+| **Type de transformation**         | **Produit obtenu**                                                                                  ------------------------------------------------------------------------------------------------------------ |
+| Aliments minimalement transformés  | cerise pays frais, cerise pays congelé, cerise pays séché                                                    |
+| Ingrédients culinaires transformés | Pourdre de cerise pays, Extrait de cerise pays                                                               |
+| Aliments transformés               | Confiture de cerise pays , gelée de cerise pays, Compote de cerise pays, Pâte de fruits à la cerise pays     |
+| Produits ultra-transformés         | Glace cerise pays, Sirop de cerise pays, Liqueur de cerise pays, Vin de cerise pays, Smoothie de cerise pays |
 ---
 
 ## Corossol
