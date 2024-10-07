@@ -1,5 +1,27 @@
 # Les plantes
 
+## Aloe vera
+
+| **Type de transformation**          | **Produit obtenu**                          |
+|-------------------------------------|---------------------------------------------|
+| Aliments minimalement transformés   | Gel d'aloe vera frais, aloe vera en morceaux |
+| Ingrédients culinaires transformés  | Jus d'aloe vera, gel alimentaire d'aloe vera |
+| Aliments transformés                | Boissons à base d'aloe vera, confiture d'aloe vera |
+| Produits ultra-transformés          | Bonbons à l'aloe vera, sirop d'aloe vera, compléments alimentaires |
+
+---
+
+## Atoumo
+
+| **Type de transformation**          | **Produit obtenu**                        |
+|-------------------------------------|-------------------------------------------|
+| Aliments minimalement transformés   | Feuilles d'atoumo fraîches, racines d'atoumo fraîches |
+| Ingrédients culinaires transformés  | Infusion d'atoumo, décoction d'atoumo     |
+| Aliments transformés                | Sirop d'atoumo, huile essentielle d'atoumo |
+| Produits ultra-transformés          | Gélules d'atoumo, compléments alimentaires, pommades à base d'atoumo |
+
+---
+
 ## Noix de coco
 
 | **Type de transformation**          | **Produit obtenu**                        |
