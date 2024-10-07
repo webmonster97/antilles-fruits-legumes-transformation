@@ -9,9 +9,9 @@
 
 ---
 
-Famille : Clusiacées
-Nom de l'arbre : Abricotier de St Domingue
-Floraison : Novembre à décembre
-Fructification : Janvier à mars
-Dimension du fruit : 10 à 20 cm de diamètre
-Autres noms : Mammee apple, mamey (anglais) ; Mamey (espagnol) ; Zabriko péyi (créole)
+- Famille : Clusiacées
+- Nom de l'arbre : Abricotier de St Domingue
+- Floraison : Novembre à décembre
+- Fructification : Janvier à mars
+- Dimension du fruit : 10 à 20 cm de diamètre
+- Autres noms : Mammee apple, mamey (anglais) ; Mamey (espagnol) ; Zabriko péyi (créole)
