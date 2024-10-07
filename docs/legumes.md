@@ -11,7 +11,7 @@
 
 ---
 
-### Dachine (Colocasia esculenta)
+## Dachine (Colocasia esculenta)
 
 | **Type de transformation**          | **Produit obtenu**                          |
 |-------------------------------------|---------------------------------------------|
@@ -22,7 +22,7 @@
 
 ---
 
-### Épinards-Gombo (Basella alba et Basella rubra)
+## Épinards-Gombo (Basella alba et Basella rubra)
 
 | **Type de transformation**          | **Produit obtenu**                          |
 |-------------------------------------|---------------------------------------------|
@@ -33,7 +33,7 @@
 
 ---
 
-## Fruit à pain
+## Fruit à pain (Artocarpus altilis)
 
 | **Type de transformation**          | **Produit obtenu**                        |
 |-------------------------------------|-------------------------------------------|
