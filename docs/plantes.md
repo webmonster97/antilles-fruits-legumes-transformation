@@ -120,7 +120,7 @@
 
 ---
 
-### Gros thym (Thymus vulgaris)
+## Gros thym (Thymus vulgaris)
 
 | **Type de transformation**          | **Produit obtenu**                          |
 |-------------------------------------|---------------------------------------------|
@@ -128,6 +128,17 @@
 | Ingrédients culinaires transformés  | Huile essentielle de thym, purée de thym    |
 | Aliments transformés                | Infusion de thym, sauces à base de thym, marinades |
 | Produits ultra-transformés          | Compléments alimentaires à base de thym, extraits concentrés |
+
+---
+
+## Huile de roucou (Bixa orellana)
+
+| **Type de transformation**          | **Produit obtenu**                          |
+|-------------------------------------|---------------------------------------------|
+| Aliments minimalement transformés   | Graines de roucou                          |
+| Ingrédients culinaires transformés  | Huile de roucou, pâte de roucou            |
+| Aliments transformés                | Assaisonnements à base d'huile de roucou, marinades |
+| Produits ultra-transformés          | Compléments alimentaires à base d'huile de roucou, extraits concentrés |
 
 ---
 
