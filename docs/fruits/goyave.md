@@ -1,4 +1,4 @@
-## Goyave
+## Goyave (Psidium guajava L. )
 
 | **Type de transformation**         | **Produit obtenu**                                                           |
 | ---------------------------------- | ---------------------------------------------------------------------------- |
@@ -6,5 +6,14 @@
 | Ingrédients culinaires transformés | Purée de goyave, jus de goyave, sirop de goyave                              |
 | Aliments transformés               | Confiture de goyave, goyave en sirop, pâte de goyave, nectar de goyave       |
 | Produits ultra-transformés         | Glace à la goyave, bonbon à la goyave, snack à la goyave, yaourt à la goyave |
+
+---
+
+- Famille : Myrtacées
+- Nom de l'arbre : Goyavier
+- Floraison : Cyclique, presque toute l’année
+- Fructification : Cyclique, presque toute l’année
+- Dimension du fruit : de 5 à 10 cm de diamètre
+- Autres noms : Guava (anglais) ; Guayaba (espagnol) ; Gwayav (créole)
 
 ---
