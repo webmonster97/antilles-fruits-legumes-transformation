@@ -1,4 +1,6 @@
-## Banane
+# Banane
+
+## Banane (Musa spp.)
 
 | **Type de transformation**         | **Produit obtenu**                                                          |
 | ---------------------------------- | --------------------------------------------------------------------------- |
@@ -30,3 +32,11 @@
 | Produits ultra-transformés         | Farine de banane Makandja, bonbons à la banane Makandja, sirop de banane Makandja           |
 
 ---
+
+- Famille : Musacées
+- Nom de l'arbre : Bananier
+- Floraison : Toute l’année
+- Fructification : Toute l’année
+- Dimension du fruit : Variable selon les variétés
+- Autres noms : Banana, Plantain (angl.) ; Banano, platano (esp.) ; Fig (créole)
+
