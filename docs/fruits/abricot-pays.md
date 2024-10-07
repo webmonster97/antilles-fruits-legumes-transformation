@@ -1,4 +1,4 @@
-## Abricot péyi
+## Abricot pays
 
 | **Type de transformation**          | **Produit obtenu**                          |
 |-------------------------------------|---------------------------------------------|
