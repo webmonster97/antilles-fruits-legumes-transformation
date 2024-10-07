@@ -33,6 +33,17 @@
 
 ---
 
+### Bananes figue
+
+| **Type de transformation**          | **Produit obtenu**                          |
+|-------------------------------------|---------------------------------------------|
+| Aliments minimalement transformés   | Bananes figue fraîches, bananes figue séchées, bananes figue congelées |
+| Ingrédients culinaires transformés  | Purée de bananes figue, chips de bananes figue |
+| Aliments transformés                | Confiture de bananes figue, bananes figue frites, gâteaux ou beignets à la banane figue |
+| Produits ultra-transformés          | Bonbons à la banane figue, farine de banane figue, sirop de banane figue |
+
+---
+
 ## Carambole
 
 | **Type de transformation**          | **Produit obtenu**                        |
