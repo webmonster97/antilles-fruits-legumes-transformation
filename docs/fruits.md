@@ -349,3 +349,25 @@
 | Produits ultra-transformés         | Sirop de kumquat, Jus de kumquat, Glace au kumquat |
 
 ---
+
+## Noix de coco
+
+| **Type de transformation**         | **Produit obtenu**                                                                         |
+| ---------------------------------- | ------------------------------------------------------------------------------------------ |
+| Aliments minimalement transformés  | Noix de coco fraîche, coco râpé, coco sec, eau de coco                                     |
+| Ingrédients culinaires transformés | Lait de coco, crème de coco, huile de coco, farine de coco, sucre de coco                  |
+| Aliments transformés               | Chips de coco, confiture de coco, coco séché, beurre de coco                               |
+| Produits ultra-transformés         | Glace à la noix de coco, snack à la noix de coco, barres de coco, bonbon à la noix de coco |
+
+---
+
+## Vanille
+
+| **Type de transformation**         | **Produit obtenu**                                                                 |
+| ---------------------------------- | ---------------------------------------------------------------------------------- |
+| Aliments minimalement transformés  | Vanille fraîche                                                                    |
+| Ingrédients culinaires transformés | Sucre vanillé, Huile essentielle de vanille, Extrait de vanille, Vanille en poudre |
+| Aliments transformés               | Pâte de vanille                                                                    |
+| Produits ultra-transformés         | Bougies parfumées à la vanille, glace à la vanille, gâteau à la vanille            |
+
+---
