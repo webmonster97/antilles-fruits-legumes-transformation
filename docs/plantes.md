@@ -120,7 +120,7 @@
 
 ---
 
-### Curcuma (Curcuma longa)
+## Curcuma (Curcuma longa)
 
 | **Type de transformation**          | **Produit obtenu**                          |
 |-------------------------------------|---------------------------------------------|
@@ -142,7 +142,7 @@
 
 ---
 
-### Menthe citron (Mentha citrata)
+## Menthe citron (Mentha citrata)
 
 | **Type de transformation**          | **Produit obtenu**                          |
 |-------------------------------------|---------------------------------------------|
@@ -153,7 +153,7 @@
 
 ---
 
-### Menthe poivrée (Mentha piperita)
+## Menthe poivrée (Mentha piperita)
 
 | **Type de transformation**          | **Produit obtenu**                          |
 |-------------------------------------|---------------------------------------------|
@@ -164,7 +164,7 @@
 
 ---
 
-### Menthe Ricqlès
+## Menthe Ricqlès
 
 | **Type de transformation**          | **Produit obtenu**                          |
 |-------------------------------------|---------------------------------------------|
@@ -175,7 +175,7 @@
 
 ---
 
-### Menthe verte (Mentha spicata)
+## Menthe verte (Mentha spicata)
 
 | **Type de transformation**          | **Produit obtenu**                          |
 |-------------------------------------|---------------------------------------------|
@@ -186,7 +186,7 @@
 
 ---
 
-### Moringa
+## Moringa
 
 | **Type de transformation**          | **Produit obtenu**                          |
 |-------------------------------------|---------------------------------------------|
