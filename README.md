@@ -32,3 +32,8 @@ La production de fruits et légumes aux Antilles françaises est un pilier de l'
 
 ---
 
+### Les épices
+
+- [Les épices](docs/epices.md)
+
+---
