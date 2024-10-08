@@ -1,53 +1,40 @@
 # Les fruits
 
-[Abricot](fruits/abricot-pays.md)
+[ [A](#A), [B](#B) ]
 
 ---
+
+## A
+
+[Abricot](fruits/abricot-pays.md)
  
 [Acerola](fruits/acerola.md)
 
----
-
 [Amande](fruits/amande.md)
-
----
 
 [Ananas](fruits/ananas.md)
 
----
-	
 [Atemoya](fruits/atemoya.md)
-
----
 
 [Avocat](fruits/avocat.md)
 
 ---
 
+## B
+
 [Banane](fruits/banane.md)
+
+[Bilimi](fruits/bilimbi.md)
+
+[Cacao](fruits/cacao.md)
+
+[Cachiman](fruits/cachiman.md)
+
+[Caïmite](fruits/caimite.md)
 	
 ---
 
-bilimbi.md
-	
-Create bilimbi.md
-	
-Oct 7, 2024
-cacao.md
-	
-Create cacao.md
-	
-Oct 7, 2024
-cachiman.md
-	
-Create cachiman.md
-	
-Oct 7, 2024
-caimite.md
-	
-Create caimite.md
-	
-Oct 7, 2024
+
 canistel.md
 	
 Update canistel.md
