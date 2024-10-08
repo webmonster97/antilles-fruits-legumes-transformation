@@ -1,6 +1,6 @@
 # Les fruits
 
-[ [A](#A) | [B](#B) | [C](#C) ]
+[ [A](#A) | [B](#B) | [C](#C) | [F](#F) ]
 
 ---
 
@@ -56,47 +56,33 @@
 	
 --- 
 
-figues-de-barbarie.md
+## F
+
+[Figues de barbarie](fruits/figues-de-barbarie.md)
 	
-Update figues-de-barbarie.md
+[Framboise](fruits/framboise.md)
 	
-Oct 7, 2024
-framboise.md
+[Framboisier](fruits/framboisier.md)
 	
-Create framboise.md
+[Fruit à pain](fruits/fruit-a-pain.md)
 	
-Oct 7, 2024
-framboisier.md
+[Fruit miracle](fruits/fruit-miracle.md)
+
+---
+
+## G
+
+[Goyave](fruits/goyave.md)
 	
-Create framboisier.md
+[Grenade](fruits/grenade.md)
 	
-Oct 7, 2024
-fruit-a-pain.md
+[Groseille](fruits/groseille.md)
 	
-Create fruit-a-pain.md
-	
-Oct 7, 2024
-fruit-miracle.md
-	
-Create fruit-miracle.md
-	
-Oct 7, 2024
-goyave.md
-	
-Update goyave.md
-	
-Oct 7, 2024
-grenade.md
-	
-Update grenade.md
-	
-Oct 7, 2024
-groseille.md
-	
-Rename groseille-pays.md to groseille.md
-	
-Oct 7, 2024
-icaque.md
+---
+
+## I
+
+[Icaque](fruits/icaque.md)
 	
 Create icaque.md
 	
