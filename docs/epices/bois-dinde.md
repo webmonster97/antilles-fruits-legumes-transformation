@@ -2,7 +2,7 @@
 
 | **Type de transformation**         | **Produit obtenu**                                    |
 | ---------------------------------- | ----------------------------------------------------- |
-| Aliments minimalement transformés  | Bois d’Inde fraîche                                   |
+| Aliments minimalement transformés  | Bois d’Inde frais                                     |
 | Ingrédients culinaires transformés | Bois d’Inde en poudre, Huile essentiel de Bois d’Inde |
 | Aliments transformés               | Infusion de bois d’Inde                               |
 | Produits ultra-transformés         |                                                       |
