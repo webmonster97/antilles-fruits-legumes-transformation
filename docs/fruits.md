@@ -26,60 +26,36 @@
 
 [Bilimi](fruits/bilimbi.md)
 
+---
+
+## C
+
 [Cacao](fruits/cacao.md)
 
 [Cachiman](fruits/cachiman.md)
 
 [Caïmite](fruits/caimite.md)
 	
----
+[Canistel](fruits/canistel.md)
+	
+[Canne à sucre](fruits/canne-a-sucre.md)
+	
+[Carambole](fruits/carambole.md)
+	
+[Cerise](fruits/cerise.md)
 
+[Chataigne pays](fruits/chataigne-pays.md)
+	
+[Citron](fruits/citron.md)
+	
+[Corossol](fruits/corossol.md)
+	
+[Courbaril](fruits/courbaril.md)
+	
+[Cythere](fruits/cythere.md)
+	
+--- 
 
-canistel.md
-	
-Update canistel.md
-	
-Oct 7, 2024
-canne-a-sucre.md
-	
-Create canne-a-sucre.md
-	
-Oct 7, 2024
-carambole.md
-	
-Update carambole.md
-	
-Oct 7, 2024
-cerise.md
-	
-Update cerise.md
-	
-Oct 7, 2024
-chataigne-pays.md
-	
-Create chataigne-pays.md
-	
-Oct 7, 2024
-citron.md
-	
-Update and rename citron-vert.md to citron.md
-	
-Oct 7, 2024
-corossol.md
-	
-Update corossol.md
-	
-Oct 7, 2024
-courbaril.md
-	
-Create courbaril.md
-	
-Oct 7, 2024
-cythere.md
-	
-Create cythere.md
-	
-Oct 7, 2024
 figues-de-barbarie.md
 	
 Update figues-de-barbarie.md
