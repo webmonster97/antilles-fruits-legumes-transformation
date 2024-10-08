@@ -1,6 +1,6 @@
 # Les légumes
 
-[ [C](#C) | [D](#D) | [E](#E) | [G](#G) | [P](#P) ]
+[ [C](#C) | [D](#D) | [E](#E) | [G](#G) | [I](#I)  [P](#P) ]
 
 ---
 
@@ -29,6 +29,10 @@
 [Gombo](legumes/gombo.md)
 
 ---
+
+## I
+
+[Igname]()
 
 ## P
 
