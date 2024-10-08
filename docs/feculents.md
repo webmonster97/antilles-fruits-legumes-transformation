@@ -57,5 +57,6 @@
 ## P
 
 [Patate douce](feculents/patate-douce.md)
+[Pomme de terre](feculents/pomme-de-terre.md)
 
 ---
