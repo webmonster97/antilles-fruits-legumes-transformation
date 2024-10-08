@@ -16,21 +16,18 @@
 
 ---
 	
-atemoya.md
+[Atemoya](fruits/atemoya.md)
+
+---
+
+[Avocat](fruits/avocat.md)
+
+---
+
+[Banane](fruits/banane.md)
 	
-Rename atemoya to atemoya.md
-	
-Oct 7, 2024
-avocat.md
-	
-Update avocat.md
-	
-Oct 7, 2024
-banane.md
-	
-Update banane.md
-	
-Oct 7, 2024
+---
+
 bilimbi.md
 	
 Create bilimbi.md
