@@ -8,3 +8,12 @@
 | Produits ultra-transformés         | Glace à la noix de coco, snack à la noix de coco, barres de coco, bonbon à la noix de coco |
 
 ---
+
+Famille : Arécacées (palmiers)
+Nom de l'arbre : Cocotier
+Floraison : Toute l’année
+Fructification : Toute l’année
+Dimension du fruit : De 20 à 30 cm de long
+Autres noms : Coco nut (anglais) ; Coco (espagnol) ; Koko, pyè koko (créole)
+
+---
