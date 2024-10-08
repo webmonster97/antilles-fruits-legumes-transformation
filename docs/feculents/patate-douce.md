@@ -8,3 +8,10 @@
 | Produits ultra-transformés         | Purée déshydratée, snack à base de patate douce                       |
 
 ---
+
+- Famille : Convolvulaceae
+- Nom de l'arbre : N/A
+- Floraison : N/A
+- Fructification : Mars à Juin
+- Dimension du fruit : Différent selon les variétés
+- Autres noms : Patates douces (Français) ; Ipomea patatas (Espagnole) ; sweet potato (Anglais) ; Patat (créole)

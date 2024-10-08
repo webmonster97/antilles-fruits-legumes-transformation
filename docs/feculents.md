@@ -1,6 +1,6 @@
 # Les féculents
 
-[ [B](#B) | [H](#H) | [I](#I) | [M](#M) | [P](#P) ]
+[ [B](#B) | [C](#C) | [D](#D) | [F](#F) | [G](#G) | [H](#H) | [I](#I) | [M](#M) | [P](#P) ]
 
 ---
 
@@ -10,8 +10,32 @@
 
 ---
 
+## C
+
+[Christophine](feculents/christophine.md)
+
+---
+
+## D
+
+[Dachine](feculents/dachine.md)
+
+---
+
+## F
+
+[Fruit à pain](feculents/fruit-a-pain.md)
+
+---
+
+## G
+
+[Giraumon](feculents/giraumon.md)
+
+---
+
 ## H
-	
+
 [Haricot rouge](feculents/haricot-rouge.md)
 
 ---
