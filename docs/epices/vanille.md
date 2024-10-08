@@ -8,3 +8,10 @@
 | Produits ultra-transformés         | Bougies parfumées à la vanille, glace à la vanille, gâteau à la vanille            |
 
 ---
+
+- Famille : Orchidaceae
+- Nom de l'arbre : vanillier
+- Floraison : N/A
+- Fructification : Juillet à Septembre
+- Dimension de l'épice : 10 à 27 cm de long et 8 à 15 mm de diamètre
+- Autres noms : Vanille (Français) ; Vanilla (Anglais) ; Vainilla (Espagnole) ; Vaniy (Creole)

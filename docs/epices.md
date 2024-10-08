@@ -47,7 +47,7 @@
 
 ## M
 
-[Muscade](epices/muscade.md)
+[Noix de muscade](epices/noix-de-muscade.md)
 
 ---
 
