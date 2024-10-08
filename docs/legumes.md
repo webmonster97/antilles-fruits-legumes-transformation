@@ -34,7 +34,7 @@
 
 ---
 
-# P
+## P
 	
 [Piment végétarien](legumes/piment-vegetarien.md)
 	
