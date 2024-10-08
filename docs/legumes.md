@@ -18,7 +18,7 @@
 
 ## E
 
-[Epinards-gombo](legumes/epinards-gombo)
+[Epinards-gombo](legumes/epinards-gombo.md)
 
 ---
 
