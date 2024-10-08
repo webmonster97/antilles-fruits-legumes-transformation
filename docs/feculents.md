@@ -12,26 +12,26 @@
 
 ## H
 	
-[Haricot rouge](haricot-rouge.md)
+[Haricot rouge](feculents/haricot-rouge.md)
 
 ---
 
 ## I
 
-[Igname](igname.md)
+[Igname](feculents/igname.md)
 
 ---
 
 ## M
 
-[Madère](madere.md)
+[Madère](feculents/madere.md)
 
-[Manioc](manioc.md)
+[Manioc](feculents/manioc.md)
 
 ---
 
 ## P
 
-[Patate douce](patate-douce.md)
+[Patate douce](feculents/patate-douce.md)
 
 ---
