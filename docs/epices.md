@@ -1,6 +1,6 @@
 # Les épices
 
-[ [A](#A) | [B](#B) | [C](#C) | [F](#F) | [G](#G) | [L](#L) | [M](#M) | [Q](#Q) | [R](#R) | [V](#V) ]
+[ [A](#A) | [B](#B) | [C](#C) | [F](#F) | [G](#G) | [M](#M) | [Q](#Q) | [R](#R) | [V](#V) ]
 
 ---
 
@@ -27,21 +27,9 @@
 
 ---
 
-## F
-
-[Fenugrec](epices/fenugrec.md)
-
----
-
 ## G
 
 [Gingembre](epices/gingembre.md)
-
----
-
-## L
-
-[Laurier](epices/laurier.md)
 
 ---
 
