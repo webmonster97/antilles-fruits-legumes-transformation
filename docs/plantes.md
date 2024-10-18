@@ -7,7 +7,7 @@
 ## A
 
 [Aloe vera](plantes/aloe-vera.md)
-[Aloe vera](plantes/atoumo.md)
+[Atoumo](plantes/atoumo.md)
 
 ---
 
