@@ -24,12 +24,17 @@
 ## C
 
 [Cerfeuil](plantes/cerfeuil.md)
+
 [Chou kale](plantes/chou-kale.md)
+
 [Citron caviar](plantes/citron-caviar.md)
+
 [Citronnelle](plantes/citronnelle.md)
+
 [Cives](plantes/cives.md)
 
 [Concombre](plantes/concombre.md)
+
 [Curcuma](plantes/curcuma.md)
 
 ---
