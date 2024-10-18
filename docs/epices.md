@@ -19,10 +19,15 @@
 ## C
 
 [Cannelle](epices/cannelle.md)
+
 [Clou de girofle](epices/clou-de-girofle.md)
+
 [Colombo](epices/colombo.md)
+
 [Coriande](epices/coriandre.md)
+
 [Cumin](epices/cumin.md)
+
 [Curcuma](epices/curcuma.md)
 
 ---
