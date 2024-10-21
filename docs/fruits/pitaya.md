@@ -1,4 +1,4 @@
-# Pitahaya ou Fruit du dragon (Hylocereus spp.)
+# Pitaya ou Fruit du dragon (Hylocereus spp.)
 
 | **Type de transformation**         | **Produit obtenu**                                                               |
 | ---------------------------------- | -------------------------------------------------------------------------------- |
